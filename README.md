@@ -33,11 +33,11 @@ Light Racer est un jeu de course en 2D qui permet de piloter des motos dans tout
 
 ## Comment jouer 
 
-- Choisissez votre vitesse souhaitée en appuyant sur la touche 1 ou 2 
+- Lancez le main du serveur sur un pc
+- Lancez le main du client sur ce pc
+- Lancez le main du client sur un autre pc
 - Utilisez les touches fléchées pour contrôler la direction de votre moto
 - Evitez de toucher le circuit de votre adversaire ainsi que les rebords du mur 
-- Lorsqu'une personne perd, appuyer sur la touche R pour relancer une partie 
-- Appuyer sur la touche ECHAP si vous voulez quitter le jeu
 
 ## Comment le jeu a été créé
 
